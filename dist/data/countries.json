@@ -93,7 +93,7 @@
     "key": "AX",
     "latitude": 60.3385485,
     "longitude": 20.2712585,
-    "name": "Åland"
+    "name": "\u00c5land"
   },
   {
     "key": "AZ",
@@ -157,9 +157,9 @@
   },
   {
     "key": "BL",
-    "latitude": 17.9000000,
-    "longitude": -62.8333330,
-    "name": "Saint-Barthélemy"
+    "latitude": 17.9,
+    "longitude": -62.833333,
+    "name": "Saint-Barth\u00e9lemy"
   },
   {
     "key": "BM",
@@ -267,7 +267,7 @@
     "key": "CI",
     "latitude": 7.539989,
     "longitude": -5.54708,
-    "name": "Côte d'Ivoire"
+    "name": "C\u00f4te d'Ivoire"
   },
   {
     "key": "CK",
@@ -319,9 +319,9 @@
   },
   {
     "key": "CW",
-    "latitude": 12.1695700,
-    "longitude": -68.9900200,
-    "name": "Curaçao"
+    "latitude": 12.16957,
+    "longitude": -68.99002,
+    "name": "Cura\u00e7ao"
   },
   {
     "key": "CX",
@@ -853,8 +853,8 @@
   },
   {
     "key": "MF",
-    "latitude": 18.0825500,
-    "longitude": -63.0522510,
+    "latitude": 18.08255,
+    "longitude": -63.052251,
     "name": "Saint Martin"
   },
   {
@@ -1137,7 +1137,7 @@
     "key": "RE",
     "latitude": -21.115141,
     "longitude": 55.536384,
-    "name": "Réunion"
+    "name": "R\u00e9union"
   },
   {
     "key": "RO",
@@ -1257,7 +1257,7 @@
     "key": "ST",
     "latitude": 0.18636,
     "longitude": 6.613081,
-    "name": "São Tomé and Príncipe"
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
   },
   {
     "key": "SV",
@@ -1399,8 +1399,8 @@
   },
   {
     "key": "US",
-    "latitude": 37.09024,
-    "longitude": -95.712891,
+    "latitude": 37.781555,
+    "longitude": -122.39399,
     "name": "United States"
   },
   {
@@ -1504,5 +1504,89 @@
     "latitude": -19.015438,
     "longitude": 29.154857,
     "name": "Zimbabwe"
+  },
+  {
+    "key": "AA",
+    "latitude": 36.778259,
+    "longitude": -119.417931,
+    "name": "az-us-w"
+  },
+  {
+    "key": "AB",
+    "latitude": 29.759438,
+    "longitude": -95.369957,
+    "name": "az-us-sc"
+  },
+  {
+    "key": "AC",
+    "latitude": 42.730610,
+    "longitude": -73.935242,
+    "name": "az-us-e"
+  },
+  {
+    "key": "AH",
+    "latitude": 35.652832,
+    "longitude": 139.839478,
+    "name": "az-jp-e"
+  },
+  {
+    "key": "AJ",
+    "latitude": 52.366409,
+    "longitude": 4.900923,
+    "name": "az-eu-w"
+  },
+  {
+    "key": "AK",
+    "latitude": 53.35014,
+    "longitude": -6.266155,
+    "name": "az-eu-n"
+  },
+  {
+    "key": "AP",
+    "latitude": -11.409874,
+    "longitude": -41.280857,
+    "name": "az-bz-s"
+  },
+  {
+    "key": "AV",
+    "latitude": -33.865143,
+    "longitude": 151.2099,
+    "name": "az-aus-e"
+  },
+  {
+    "key": "AY",
+    "latitude": 1.29027,
+    "longitude": 103.851959,
+    "name": "az-asia-se"
+  },
+  {
+    "key": "BC",
+    "latitude": 32.715736,
+    "longitude": -117.161087,
+    "name": "aws-us-w"
+  },
+  {
+    "key": "BK",
+    "latitude": 36.867264,
+    "longitude": -77.885773,
+    "name": "aws-us-e"
+  },
+  {
+    "key": "BP",
+    "latitude": 8.6821,
+    "longitude": 50.1109,
+    "name": "aws-eu-c"
+  },
+  {
+    "key": "BU",
+    "latitude": -26.1715173,
+    "longitude": 28.0050053,
+    "name": "az-za-w"
+  },
+  {
+    "key": "BX",
+    "latitude": -33.9152209,
+    "longitude": 18.3758868,
+    "name": "az-za-n"
   }
 ]
